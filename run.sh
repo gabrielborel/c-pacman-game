@@ -1,0 +1,1 @@
+gcc game.c map.c && ./a.out
